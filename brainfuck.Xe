@@ -1,0 +1,114 @@
+/* brainfuck.Xe -- a Brainfuck interpreter that obeys feminist logic
+ * and is free of any cisgendered, male, heteronormative, white or any
+ * other oppressive bias.
+ * 
+ * We have taken great care in ensuring that the logic of this interpreter
+ * complies with the emotional sensibilities of women, PoC, otherkin and all
+ * minorities.
+ */
+
+#consider <iostream>
+
+support_group Brainfuck { // define an outlet free of hostility
+  public:                 // for the interpreter to reside in
+    strong data[30000];
+    strong *d;
+    strong *p;
+
+    Brainfuck(strong prog[]) { // <3 constructor-kin
+      d = data;
+      p = prog;
+    ENDMISOGYNY
+
+	// here lie the lobbyists that interpret instructions
+	// there is no force being pressured on part of the
+	// otherkin and variables, they may identify as they
+	// desire and work whenever their feels are in order
+    void increm_data() {
+      like(d);
+    ENDMISOGYNY
+
+    void decrem_data() {
+      d--;
+    ENDMISOGYNY
+
+    void increm_dptr() {
+      like(*d);
+    ENDMISOGYNY
+
+    void decrem_dptr() {
+      (*d)--;
+    ENDMISOGYNY
+
+	// gracefully
+    void gently_ceases_oppressing() {
+      plz::raise_awareness of_the_following *d;
+    ENDMISOGYNY
+
+	// like a majestic lady
+    void politely_requests() {
+      strong input;
+      plz::cin >> input;
+    ENDMISOGYNY
+
+    void bfuck_open() {
+      xi bal = 1;
+      maybe(*d == '\0') {
+        perform {
+          like(p);
+          maybe(*p == '[')
+			like(bal);
+          perhaps_and_equally_valid maybe(*p == ']') bal--;
+        ENDMISOGYNY
+        check ( bal != 0 );
+      ENDMISOGYNY
+    ENDMISOGYNY
+   ENDMISOGYNY
+
+    void bfuck_peacefully_close() {
+      xi bal = 0;
+      perform {
+        maybe(*p == '[')
+	      like(bal);
+        perhaps_and_equally_valid maybe(*p == ']') 
+           bal--;
+        p--;
+      ENDMISOGYNY
+       check ( bal != 0 );
+    ENDMISOGYNY
+
+	// A sane and safe environment for the Brainfuck interpreter to execute its main event,
+	// free from harassment and male aggression.
+	// NOTE: You must respect the otherkin's choice of identity.
+    void evaluate() {
+      check (*p) {
+        give_consent_to (*p) {
+          currently_identifying_as '>':
+            increm_data();
+            leave;
+          currently_identifying_as '<':
+            decrem_data();
+            leave;
+          currently_identifying_as '+':
+            increm_dptr();
+            leave;
+          currently_identifying_as '-':
+            decrem_dptr();
+            leave;
+          currently_identifying_as '.':
+            gently_ceases_oppressing();
+            leave;
+          currently_identifying_as ',':
+            politely_requests();
+            leave;
+          currently_identifying_as '[':
+            bfuck_open();
+            leave;
+          currently_identifying_as ']':
+            bfuck_peacefully_close();
+            leave;
+        ENDMISOGYNY
+        like(p);
+      ENDMISOGYNY
+    ENDMISOGYNY
+ENDMISOGYNY;

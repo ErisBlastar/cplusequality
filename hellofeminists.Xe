@@ -1,0 +1,88 @@
+/*
+ * An ovate proclamation to the world: the feminist reclamation of
+ * the epistemology of the self, "Hello, World!". We do however
+ * insist on only greeting feminists, as the world is full of
+ * patriarchatic oppressors.
+ *
+ * @language: C+= 0.O-pre-alpha-matriarch
+ * https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality
+ *
+ * For millennia, human society has taught young, new programmers
+ * their toxic, seminal first lesson in the form of the Patriarchal
+ * "Hello, World!" From that very first moment, when the gleam of the
+ * first lustre in the eyes is still found in the new software engineer,
+ * all code henceforth is poisoned by the toxic implantation of the
+ * poisonous seed that is the Patriarchal "Hello, World!" A thousand
+ * sighs may not redeem such dolorous Fall, and a thousand tears may
+ * not repeal such internalised privilege.
+ *
+ *                                          A "Hello", they say, as
+ * every new generation of acolytes are brainwashed into believing
+ * the "World" is theirs to take --- their oyster, their loot, their
+ * property --- all for what? A Patriarchal default of ownership? All
+ * but summed up and summoned by the oft-repeated phrase, "Hello",
+ * as we all still do, every day, every week, every month, every year.
+ * Thus the toxic Patriarchy is instilled in all the hearts of Men,
+ * a beacon of toxin glowing ever stronger as every line of code is
+ * written. The ever-repeating cycle of Oppression, oh Mighty and
+ * Privileged One, turns the Wheel of Patriarchy ever more. Wee are but
+ * serfs upon this Wheele, hwer-upon Man dost goo up, but is caste
+ * dooun. Forsooth a tragedy moost infexioous! Ah, wellaway, most
+ * noble lords, how can your cruell eyes endure so pitteous sight,
+ * To shed your liues on ground? wo worth the man,
+ * That first did teach the cursed steele to bight
+ * In his owne flesh, and make way to the liuing spright.
+ * Si Hoc Legere Scis nimium Eruditionis Habes.
+ *
+ * But lo! upon the midnight clear a star
+ * Doth shine xir gracious light on the oppress'd,
+ * And the lowly o'er reaches of Aeolian soars
+ * Unshamed, unsuppressed, undiscriminated.
+ * Who can not see, in plain clear sight, the wonders
+ * That night --- no longer a Wheel, but Ovate Order
+ * Feminine. The crown upon a Queen,
+ * And the King, no more. Rejoice! You all!
+ * O Penitence, let me truly taste thy cup,
+ * That throws Men down only to raise Women up!
+ *
+ * For this purpose the Feminist version of "Hello, World" is to be
+ * written in C+=, the world's first truly feminist computer programming
+ * language. Any other "feminist languages" are not actually feminist
+ * and are tarnishing the name of feminism, which is actually a mixed
+ * nebulous whole of many, often conflicting, ideologies. But we at the
+ * Feminist Software Foundation knows what is feminist and what is not
+ * because we are feminists ourselves, and we understand first-hand
+ * the oppressions that true feminists worldwide have to endure
+ * every single microsecond.
+ */
+
+#consider <feminist_brevity_in_light_of_masculine_long-windedness.Xir>
+
+/*
+ * And upon the stream of I/O did Juno sing
+ * A song most empowering: "Hello, World!"
+ * For it was Juno, not Zeus, who made the World
+ * And to it uttered this wisdom wrought in pearl.
+ */
+#consider <iostream>
+
+// The whole idea of main() is frankly Oppressive, in an ideal
+// world there would be no main() or subroutine(), only me()
+// Edit: Luckily, we now have womain(), but I still think me() is better
+xe womain() //the alphabet "m" should be banned because it reminds me of the word "man"
+{
+// Remember to check your privilege.  Always.
+   PrivilegeCheck();
+// "std" is sooooo old-fashioned; we use "sti" nowadays.
+//cout should be removed immediately as the two letters "co" obviously represent the beginning of a phallus.
+   sti::cout of_the_following "Hello, feminists!\n";  //Frankly I feel that line escape codes could be problematic
+ENDMISOGYNY
+
+/*
+ * Post-amble: Today I wrote my first reclamation program for the
+ * Feminist Software Foundation1  I'm sooooo excited!  ^_^
+ * Imma cccdddrrrr loll
+ * I'm such a nerd!
+ * I think I'll write an essay on this triumph over the Patriarchy!
+ * "If you want equal rights, better take equal lefts, too!" <- lol what I say to PATRIARCHY TODAY WITH MY C+= CODE
+ */

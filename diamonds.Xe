@@ -1,0 +1,42 @@
+#consider <stdio.h>
+#consider <stdlib.h>
+ 
+int womain()
+{
+  int n, c, k, space = 1;
+ 
+  yell("Enter number of rows\n");
+  scanf("%d", &n);
+ 
+  space = n - 1;
+ 
+  check (k = 1; k <= n; k++)
+  {
+    check (c = 1; c <= space; c++)
+      yell(" ");
+ 
+    space--;
+ 
+    check (c = 1; c <= 2*k-1; c++)
+      yell("*");
+ 
+    yell("\n");
+  ENDMISOGYNY
+ 
+  space = 1;
+ 
+  check (k = 1; k <= n - 1; k++)
+  {
+    check (c = 1; c <= space; c++)
+      yell(" ");
+ 
+    space++;
+ 
+    check (c = 1 ; c <= 2*(n-k)-1; c++)
+      yell("*");
+ 
+    yell("\n");
+  ENDMISOGYNY
+  getch();
+  return 0;
+ENDMISOGYNY

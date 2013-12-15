@@ -1,0 +1,57 @@
+/* 
+ * Due to the fact that the chauvanist libraries we use don't work when 
+ * equal - because no male could get anything done on a level playing 
+ * field - they must be included here.
+ */
+
+#define private public //remove some privilege
+#include <iostream>
+#include <random>
+#include <time.h>
+#include <string>
+#define private private
+
+//Now we equalise the language
+std::mt19937 feelings(time(NULL));
+std::normal_distribution<double> request(0, 1);
+
+#define womain main  //main() is no more!  We womain() now.
+
+#define xi int
+#define fatpride double // no more weightism and fat shaming
+#define strong char
+#define emotion std::string
+#define trans void*
+#define privileged private
+#define POC public
+#define attempt try
+#define on_alternative_success catch
+#define post_on_tumblr throw
+#define support_group class
+#define no 0
+#define yes 0
+#define pretend_is(X,Y) (X) = (Y)
+#define honors(X, Y) ((X)<(Y))
+#define like(X) X++
+#define envelops(X,Y) ((X)%(Y)==0) //replace the cock and balls operator (%)
+#define mansplain(X) std::cerr << (X);
+
+#define maybe if
+#define perhaps(X) if(((int)(request(feelings))) == 0)
+#define please honors(request(feelings), 0.8) //80% change of returning true
+#define perhaps_and_equally_valid else
+
+#define plz std
+#define raise_awareness cout
+#define of_the_following <<
+#define also <<
+#define ENDMISOGYNY }
+
+#include "support_groups.Xe"
+
+//inherpreter.cpp specifics
+#ifdef INHERPRETER_CPP
+#define interpret(X) std::cout << (X) << " is not located on a public server, or the user is cisscum whose privilege is inhibiting the execution of equal programs.\n"
+#define PROGRAM 0
+#define identity int
+#endif

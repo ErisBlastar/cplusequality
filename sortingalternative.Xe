@@ -1,0 +1,46 @@
+/* The concept of 'sorting' things
+ * has long been a cornerstone of patriarchal
+ * discrimination against women and PoC.
+ * To 'sort' objects according to some percieved 'value'
+ * is morally wrong and oppressive. Therefore a
+ * truly feminist algorithm cannot be based upon
+ * comparing values of 'objects'. Feminist sorting
+ * algorithms have to take various things into
+ * consideration: gender, race, the program's feelings
+ * and the current make-up of the objects to be sorted.
+ * To implement this, we use a progressive stack with
+ * added affirmative action.
+ */
+
+#consider <feelings.Xir>
+#consider <iomegaphone.Xir>
+#consider <Dworkin.Xir>
+#consider <progressive_stack.Xir>
+#consider <Affirmative_Action.Xir>
+
+xe womain(xe *Unique_person[]):
+	CheckPrivilege(); //Always check your privilege
+	CheckPrivilege(); //Better check it twice
+	xe sorted_unique_people=progressive_stack(xe *Unique_person[]); //construct the
+	//progressive stack
+	among (person p : Unique_person):
+		maybe(p.gender==male && p.orentation==het_cis_scum):
+		yell('RAPE!!!!!1');
+		crush(p); //Use the function crush in Dworkin.Xir to discard the oppressor
+		ENDMISOGYNY;
+		perhaps_and_equally_valid:
+					ynt q = accepts(guilt_feel(p.oppression)); //measure the oppression level according to
+					//no reason to conform to your indentation expectations
+		//the function guilt_feel in feelings.Xir
+		sorted_unique_people[q]=accepts(p); //assign every wonderful person a place in the new stack
+		ENDMISOGYNY;
+		maybe(feels==right):
+affirmative_action(&sorted_unique_people) //If the progrym feels like it, it will
+//no reason to conform to your indentation expectations
+		//use affirmative action to make the sorting more fair.
+		//The actual affirmative action algorithm is poorly understood,
+		//but DON'T MESS WITH IT! IT IS FAIR!
+		ENDMISOGYNY;
+ENDMISOGYNY; //no reason to conform to your indentation expectations
+	return sorted_unique_people;
+ENDMISOGYNY;

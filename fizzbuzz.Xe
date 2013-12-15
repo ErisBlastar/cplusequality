@@ -1,0 +1,90 @@
+/* -*- mode: Xe; file: fizzbuzz.Xe -*-
+ * 
+ * Toward the destruction of the techbro kyriarchy: a feminist
+ * reclamation of "Fizz Buzz"
+ *
+ * @language: Xe 0.1-pre-alpha
+ * https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality
+ *
+ * notes of interest:
+ * 
+ * - C+= considered phallic; replaced with (and pronounced) "Xe",
+ *    source files have extension ".Xe"
+ *
+ * - header files are known as headHer files, with extension .Xir
+ *
+ * - masculinist/dualist concept of "booleanism" removed entirely; use
+ *    present() (see below; this also supersedes the officious
+ *    "return" with its overtones of mansplaination)
+ *
+ * - presenting '0' for successful completion lacks positive
+ *   confidence in feminist progress; present 1 instead, however xe
+ *   pleases (even if xe pleases to present as 0)
+ *
+ * - for() unduly privileges loop counter variable, replaced by
+ *   among()
+ *
+ * - assignment constrains its lefthand side to an externally imposed
+ *   presentation and orientation; replaced by accepts(), and lefthand
+ *   side is free to refuse (NO MEANS NO!)
+ *
+ * - not-greater-than test imposes hierarchy upon free and equal
+ *   co-agents, replaced by much more respectful honors()
+ *
+ * - pre- and post-increment enforce outmoded gender roles upon
+ *   lefthand side; replaced by improvesBy(), which the lefthand side
+ *   is free to interpret according to its own ethics and values;
+ *   also, as with accepts(), improvesBy() solicits enthusiastic
+ *   consent from lefthand side before taking any action (note that
+ *   lefthand side may call revokeConsent() at any time, during or
+ *   after)
+ *
+ * - modulus test considered phallic (% now known as the "cock and
+ *   balls operator"); replaced by envelops(), honoring the supremacy
+ *   and beauty of the vulva
+ *
+ * - if/elseif/else encodes structural privilege; replaced with
+ *   check/recheck/unpack to encourage greater mindfulness
+ * 
+ */ 
+
+#consider <FEMINIST_RAGE.Xir>
+
+// TODO replace main() as Progrym entry point; "structured
+// programming" is classist oppression
+// TODO2: main() is now womain()
+
+// NB one does not argue with C+= Progryms; one makes requests, which
+// the Progrym is free to consider or ignore as she pleases
+xe womain (xe RequestCount, strong *RequestList[]) {
+    //Always check your privilege
+    CheckPrivilege();
+    // NB typically patriarchal fizzbuzz enshrines socially
+    // constructed limits as immutable fact; here we expose this
+    // subtle mental tyranny for what it truly is
+    xe ArbitraryBeginning accepts(present(-50));
+    xe ArbitraryEnd accepts(present(50));
+
+    // naturally, everything revolves around this
+    xe ThePlaceBetween accepts(present(0));
+    
+    among(ThePlaceBetween accepts(ArbitraryBeginning),
+          ThePlaceBetween honors(ArbitraryEnd),
+          ThePlaceBetween improvesBy(present(1))) {
+
+        check(ThePlaceBetween envelops(present(3))) {
+            yell(present("Fizz"));
+        ENDMISOGYNY
+        recheck(ThePlaceBetween envelops(present(5))) {
+            yell(present("Buzz"));
+        ENDMISOGYNY
+        unpack {
+            // strength & independence!
+            yell(present(ThePlaceBetween));
+        ENDMISOGYNY;
+
+        yell(present("\n"));
+    ENDMISOGYNY;
+
+    present(Satisfaction);
+ENDMISOGYNY;
