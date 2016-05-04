@@ -40,12 +40,11 @@ Code Examples
 
 The Feminist Software Foundation intends to write a whole OS (complete with an editor, an interpreter, coreutils, a desktop environment, a raster graphics manipulator, and may be, if we have the time, a microkernel). For the time being, here are our code examples:
 
-* [Hello, Feminists!](https://github.com/ErisBlastar/cplusequality//hellofeminists.Xe)
-* [FizzBuzz implementation](https://github.com/ErisBlastar/cplusequality/fizzbuzz.Xe)
-* [Diamonds](https://github.com/ErisBlastar/cplusequality/diamonds.Xe)
-* [Sieve](https://github.com/ErisBlastar/cplusequality/sieve.Xe)
-* [Femsort](https://github.com/ErisBlastar/cplusequality/femsort.Xe)
-* [A Brainfuck interpreter](https://github.com/ErisBlastar/cplusequality/brainfuck.Xe)
+* [Hello, Feminists!](https://github.com/ErisBlastar/cplusequality/blob/master/hellofeminists.Xe)
+* [FizzBuzz implementation](https://github.com/ErisBlastar/cplusequality/blob/master/fizzbuzz.Xe)
+* [Diamonds](https://github.com/ErisBlastar/cplusequality/blob/master/diamonds.Xe)
+* [Femsort](https://github.com/ErisBlastar/cplusequality/blob/master/femsort.Xe)
+* [A Brainfuck interpreter](https://github.com/ErisBlastar/cplusequality/blob/master/brainfuck.Xe)
 
 We also have an IDE written in para-trans-C+=: [https://bitbucket.org/japesinator/privcheck-ide](https://bitbucket.org/japesinator/privcheck-ide)
 
