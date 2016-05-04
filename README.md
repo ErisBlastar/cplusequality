@@ -40,12 +40,12 @@ Code Examples
 
 The Feminist Software Foundation intends to write a whole OS (complete with an editor, an interpreter, coreutils, a desktop environment, a raster graphics manipulator, and may be, if we have the time, a microkernel). For the time being, here are our code examples:
 
-* [Hello, Feminists!](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/hellofeminists.Xe)
-* [FizzBuzz implementation](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/fizzbuzz.Xe)
-* [Diamonds](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/diamonds.Xe)
-* [Sieve](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/sieve.Xe)
-* [Femsort](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/femsort.Xe)
-* [A Brainfuck interpreter](https://bitbucket.org/FeministSoftwareFoundation/c-plus-equality/src/mistress/brainfuck.Xe)
+* [Hello, Feminists!](https://github.com/ErisBlastar/cplusequality/src/mistress/hellofeminists.Xe)
+* [FizzBuzz implementation](https://github.com/ErisBlastar/cplusequality/src/mistress/fizzbuzz.Xe)
+* [Diamonds](https://github.com/ErisBlastar/cplusequality/src/mistress/diamonds.Xe)
+* [Sieve](https://github.com/ErisBlastar/cplusequality/src/mistress/sieve.Xe)
+* [Femsort](https://github.com/ErisBlastar/cplusequality/src/mistress/femsort.Xe)
+* [A Brainfuck interpreter](https://github.com/ErisBlastar/cplusequality/src/mistress/brainfuck.Xe)
 
 We also have an IDE written in para-trans-C+=: [https://bitbucket.org/japesinator/privcheck-ide](https://bitbucket.org/japesinator/privcheck-ide)
 
