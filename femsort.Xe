@@ -19,6 +19,7 @@ xe womain(xe *Unique_person[])
 {
 	CheckPrivilege(); //Always check your privilege
 	CheckPrivilege(); //Better check it twice
+	CheckPrivilege(); //One more time
 	xe sorted_unique_people=progressive_stack(xe *Unique_person[]); //construct the
 									//progressive stack
 	among (person p : Unique_person) {
