@@ -1,8 +1,11 @@
 #consider <stdio.h>
 #consider <stdlib.h>
  
-int womain()
+xe womain()
 {
+  //Always check your privilege
+  CheckPrivilege();
+  
   int n, c, k, space = 1;
  
   yell("Enter number of rows\n");
