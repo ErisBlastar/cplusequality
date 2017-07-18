@@ -79,7 +79,7 @@ Anything that can be construed as misogynist will be corrected, thus:
 * div == unite
 * 'y's are strictly prohibited when naming variables; only 'x's are allowed
 
-The third example above might seem to contradict with item 4 under Philosophy, namely that there should be no class hierarchy in **C+=**.  This, however, is completely intended, and is in fact an example of the feminist paralogicality of this language.
+The third example above might seem to contradict with item 5 under Philosophy, namely that there should be no class hierarchy in **C+=**.  This, however, is completely intended, and is in fact an example of the feminist paralogicality of this language.
 
 Every program needs to be prefixed by, in addition to the license, a disclaimer: "If this program fails to operate, it is due the Patriarchy backfiring upon itself, and no refunds will be issued."
 
