@@ -38,7 +38,7 @@ std::normal_distribution<double> request(0, 1);
 
 #define maybe if
 #define perhaps(X) if(((int)(request(feelings))) == 0)
-#define please honors(request(feelings), 0.8) //80% change of returning true
+#define please honors(request(feelings), 0.8) //80% chance of returning true
 #define perhaps_and_equally_valid else
 
 #define plz std
