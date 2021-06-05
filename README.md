@@ -3,7 +3,7 @@
 
 A project of the [Feminist Software Foundation](http://feministsoftwarefoundation.org/).  Feminist software is a cornerstone of any modern free society. We build this foundation.
 
-**Trigger Warning, this repository uses satire and sarcasm and other types of humor that could trigger Feminazis into rage fits. Maintainer of this repository was gone for a while due to being source code raped by feminists who lack a sense of humor. Which is ironic as this language was written for feminists by women. We are trying to help out women and feminists to have a programming language not controled by the capitalist patricarchy and men.**
+**Trigger Warning, this repository uses satire and sarcasm and other types of humor that could trigger Feminazis into rage fits. Maintainer of this repository was gone for a while due to being source code raped by feminists who lack a sense of humor. Which is ironic as this language was written for feminists by women. We are trying to help out women and feminists to have a programming language not controlled by the capitalist patricarchy and men.**
 
 Now hosted on BitBucket, as **[GitHub proves to be too misogynistic to support a feminist programming language](https://github.com/FeministSoftwareFoundation/C-plus-Equality)**.
 
